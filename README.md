@@ -1,1 +1,1 @@
-# Logical-Neural-Network-of-Spation-Direction-Detection-
+# Logical-Neural-Network-for-Spation-Direction-Detection-
